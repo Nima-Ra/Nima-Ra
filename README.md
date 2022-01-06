@@ -1,17 +1,8 @@
 # Hello there 👋
-![](https://github.com/Nima-Ra/stats/blob/master/generated/overview.svg)
-![](https://github.com/Nima-Ra/stats/blob/master/generated/languages.svg)
+I'm Nima and this is my GitHub profile! I'm a tech and blockchain enthusiast who is currently learning more about the blockchain world.
+- 🔭 I’m currently working on [DAB (Internet Computer's Decentralized Address Book)](https://github.com/Psychedelic/dab)
+- 💬 I'm always down for a conversation about cinema and philosophy!
 - 📫 How to reach me: [Message me on Telegram!](https://t.me/Nima_Ra)
 
-<!--
-**Nima-Ra/Nima-Ra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ![]
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github.com/Nima-Ra/stats/blob/master/generated/overview.svg)
+![](https://github.com/Nima-Ra/stats/blob/master/generated/languages.svg)
